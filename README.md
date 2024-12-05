@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Music Visualzer -->
-![Music Visualizer](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true)
+[![Minecraft Music](https://img.shields.io/badge/🎵_Now_Playing-Minecraft_Volume_Alpha-success?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cyq5-StPISU)
+
 
 
 
