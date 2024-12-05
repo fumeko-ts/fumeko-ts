@@ -1,4 +1,5 @@
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyq5-StPISU?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- All elements wrapped in the same invite link -->
 [![Join Our Discord](https://discordapp.com/api/guilds/1283629085397880872/widget.png?style=banner4)](https://discord.gg/your-invite-link)
