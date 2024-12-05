@@ -1,7 +1,6 @@
 <div align="center">
-<audio controls autoplay loop>
-  <source src="https://github.com/fumeko-ts/l/blob/main/minecraft-volume-alpha.mp3" type="audio/mpeg">
-</audio>
+![Minecraft Music](https://y.yarn.co/cyq5-StPISU.gif)
+
 
 
 <!-- All elements wrapped in the same invite link -->
