@@ -27,10 +27,6 @@
 
 [![PMC Projects](https://img.shields.io/badge/🏗️_Projects-View_All-brightgreen?style=for-the-badge)](https://www.planetminecraft.com/member/ashura_tepes/submissions/projects/)
 
-[![PMC Skins](https://img.shields.io/badge/👕_Skins-Browse_Collection-brightgreen?style=for-the-badge)](https://www.planetminecraft.com/member/ashura_tepes/submissions/skins/)
-
-[![PMC Resource Packs](https://img.shields.io/badge/📦_Resource_Packs-Download-brightgreen?style=for-the-badge)](https://www.planetminecraft.com/member/ashura_tepes/submissions/texture-packs/)
-
 </div>
 
 </p>
