@@ -1,6 +1,6 @@
 <div align="center">
 <audio controls autoplay loop>
-  <source src="https://github.com/fumeko-ts/l/raw/main/minecraft-volume-alpha.mp3" type="audio/mpeg">
+  <source src="https://github.com/fumeko-ts/l/blob/main/minecraft-volume-alpha.mp3" type="audio/mpeg">
 </audio>
 
 
