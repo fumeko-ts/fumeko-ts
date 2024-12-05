@@ -1,6 +1,6 @@
 <p align="center">
 
-[![Minecraft Music](https://img.shields.io/badge/🎵_Now_Playing-Minecraft_Volume_Alpha-success?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cyq5-StPISU)
+[![Minecraft Music](https://img.shields.io/badge/🎵_Now_Playing-Minecraft_resource_maker-success?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cyq5-StPISU)
 
 [![Join Our Discord](https://discordapp.com/api/guilds/1283629085397880872/widget.png?style=banner4)](https://discord.gg/your-invite-link)
 
