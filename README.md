@@ -1,11 +1,7 @@
-<div align="center">
+<p align="center">
+
 [![Minecraft Music](https://img.shields.io/badge/🎵_Now_Playing-Minecraft_Volume_Alpha-success?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cyq5-StPISU)
 
-
-
-
-
-<!-- All elements wrapped in the same invite link -->
 [![Join Our Discord](https://discordapp.com/api/guilds/1283629085397880872/widget.png?style=banner4)](https://discord.gg/your-invite-link)
 
 [![Join our Community](https://img.shields.io/badge/-Join%20Our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
@@ -19,4 +15,4 @@
 
 [![Discord Widget](https://discord.com/api/guilds/1283629085397880872/widget.png)](https://discord.gg/your-invite-link)
 
-</div>
+</p>
