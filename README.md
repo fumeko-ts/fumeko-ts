@@ -1,25 +1,34 @@
 <div align="center">
+
+<!-- Crafting Panel -->
+<div style="background-color: #000000CC; padding: 20px; width: 326px;">
   
-# 🎮 Welcome to My Minecraft Universe 🎮
+  <!-- Title -->
+  ![Inventory](https://readme-typing-svg.herokuapp.com?font=Minecraft&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=320&height=30&lines=Inventory)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&size=35&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Loading+Profile...;Spawning+Stats...;Ready+to+Play!" alt="Typing SVG" />
+  <!-- Left Panel -->
+  <div align="left" style="display: inline-block; width: 88px;">
+    <img src="https://mc-heads.net/avatar/fumeko" width="52" height="52" />
+    <br>
+    <img src="https://profile-counter.glitch.me/fumeko-ts/count.svg" width="88" />
+  </div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=fumeko-ts&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=false" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumeko-ts&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false" />
-    </td>
-  </tr>
-</table>
+  <!-- Center Panel -->
+  <div align="center" style="display: inline-block; width: 166px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=fumeko-ts&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&card_width=166" />
+  </div>
 
-<img src="https://wakatime.com/share/@fumeko_ts/a66e6f44-5282-493f-84c5-726fd868a763.svg" width="70%" />
+  <!-- Right Panel -->
+  <div align="right" style="display: inline-block; width: 146px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumeko-ts&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
+  </div>
 
-### 🌟 Players Online
-![Visitor Count](https://profile-counter.glitch.me/fumeko-ts/count.svg)
+  <!-- Hotbar -->
+  <div style="margin-top: 10px;">
+    ![](https://img.shields.io/badge/Repositories-gray?style=for-the-badge)
+    ![](https://img.shields.io/badge/Stars-gray?style=for-the-badge)
+    ![](https://img.shields.io/badge/Gists-gray?style=for-the-badge)
+  </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
+</div>
 </div>
