@@ -30,3 +30,5 @@
 </div>
 
 </p>
+
+<figure><embed src="https://wakatime.com/share/@fumeko_ts/bfca483f-0c15-4b35-9832-8d9c48dc5587.svg"></embed></figure>
