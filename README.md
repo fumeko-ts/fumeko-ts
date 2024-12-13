@@ -3,7 +3,7 @@
 <!-- Left Side - Discord -->
 <div style="float: left; width: 50%;">
 
-[![Minecraft Music](https://img.shields.io/badge/🎵_Now_Playing-Minecraft_Volume_Alpha-success?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cyq5-StPISU)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fumeko_ts/029a0210-e8e0-4785-9237-f34a488df02d.png" /></a>
 
 [![Join Our Discord](https://discordapp.com/api/guilds/1283629085397880872/widget.png?style=banner4)](https://discord.gg/your-invite-link)
 
