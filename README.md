@@ -3,8 +3,6 @@
 <!-- Left Side - Discord -->
 <div style="float: left; width: 50%;">
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fumeko_ts/029a0210-e8e0-4785-9237-f34a488df02d.png" /></a>
-
 [![Join Our Discord](https://discordapp.com/api/guilds/1283629085397880872/widget.png?style=banner4)](https://discord.gg/your-invite-link)
 
 [![Join our Community](https://img.shields.io/badge/-Join%20Our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
