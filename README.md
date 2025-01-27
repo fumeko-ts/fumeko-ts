@@ -24,4 +24,4 @@
 
 </p>
 
-<div src="https://wakatime.com/share/@fumeko_ts/62f6fee5-c45d-4029-ae8e-c53ea54727b2.svg">
+https://wakatime.com/share/@fumeko_ts/62f6fee5-c45d-4029-ae8e-c53ea54727b2.svg
