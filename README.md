@@ -24,8 +24,4 @@
 
 </p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@fumeko_ts/d1dc8e24-92c5-4aed-9d89-b4820cd1dacd.png" /></a>
-
-
-
-<a href="https://www.planetminecraft.com/texture-pack/java-containers-6490069/" title="Java containers [bedrock] Minecraft Texture Pack"><br /><img src="https://static.planetminecraft.com/files/image/minecraft/texture-pack/2024/069/18425271_l.jpg" alt="Java containers [bedrock]" border="0"/><br/>Java containers [bedrock]</a> by <a href="https://www.planetminecraft.com/member/ashura_tepes/" title="ashura_Tepes Profile">ashura_Tepes</a>
+<figure><embed src="https://wakatime.com/share/@fumeko_ts/62f6fee5-c45d-4029-ae8e-c53ea54727b2.svg"></embed></figure>
