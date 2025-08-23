@@ -1,3 +1,5 @@
+:shipit:
+
 <table>
   <tr>
     <!-- Left Stack: WakaTime images -->
