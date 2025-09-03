@@ -23,8 +23,6 @@
         <tr>
           <td>
             <img src="https://wakatime.com/share/@fumeko_ts/6f710a25-1cd7-4a02-864a-3c4a9863f4b9.svg" width="500" height="500"/>
-            <br>
-            <img src="https://wakatime.com/share/@fumeko_ts/78ce42c2-5e5d-4b7e-a6ec-5889152f41a0.png" width="500" height="500"/>
           </td>
         </tr>
       </table>
