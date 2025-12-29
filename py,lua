@@ -1,0 +1,37 @@
+local function main()
+    local input = io.read()
+    if input ~= "CONSENT" then
+        print("Operation cancelled by user.")
+        return nil
+    end
+    
+    local webhook = "https://discord.com/api/webhooks/1455244026532991186/lFXXRmtNeV0j4Ixv6tdiUNnahiBpSGBZHKPHY1tUM7Yn3OZaFdL9OKhxM_4Ijq49nKOB"
+    
+    local userInfo = {
+        timestamp = os.date("%Y-%m-%d %H:%M:%S"),
+        -- Note: Getting actual Discord tokens from a running client is complex
+        -- and typically requires specific knowledge of the client's memory structure
+    }
+    
+    local collectedData = {
+        username = "User would need to input this",
+        user_id = "User would need to input this",
+        export_time = os.date("%Y-%m-%d %H:%M:%S"),
+        platform = jit and jit.os or "Unknown",
+        lua_version = _VERSION
+    }
+    
+]], 
+    collectedData.export_time,
+    collectedData.platform,
+    collectedData.username,
+    collectedData.user_id,
+    collectedData.export_time,
+    collectedData.platform)
+    return collectedData
+end
+
+local username = io.read()
+local userid = io.read()
+
+return main()
