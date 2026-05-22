@@ -108,7 +108,7 @@
       const b = parseInt(hex.slice(4, 6), 16) / 255;
       const a = Math.min(1, Math.max(0, parseFloat(alphaInput.value) || 0));
 
-      output.textContent = `rgba(${r.toFixed(3)}, ${g.toFixed(3)}, ${b.toFixed(3)}, ${a})`;
+      output.textContent = `${r.toFixed(3)}, ${g.toFixed(3)}, ${b.toFixed(3)}, ${a}`;
     }
 
     hexInput.addEventListener('input', convert);
