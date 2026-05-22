@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hex → RGBA</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f5f5f5;
+      color: #111;
+      font-family: Inter, system-ui, sans-serif;
+      padding: 24px;
+    }
+
+    .card {
+      width: 100%;
+      max-width: 420px;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 14px;
+      padding: 24px;
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    input {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      font-size: 15px;
+      background: #fafafa;
+      margin-bottom: 16px;
+    }
+
+    .output {
+      padding: 14px;
+      border-radius: 10px;
+      background: #f3f3f3;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 14px;
+      word-break: break-all;
+      cursor: pointer;
+      border: 1px solid #e2e2e2;
+    }
+
+    .hint {
+      margin-top: 10px;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Hex → RGBA</h1>
+
+    <label for="hex">Hex</label>
+    <input id="hex" type="text" placeholder="#ff5733" value="#ff5733" />
+
+    <label for="alpha">Alpha (0–1)</label>
+    <input id="alpha" type="number" min="0" max="1" step="0.01" value="1" />
+
+    <div class="output" id="output"></div>
+    <div class="hint">Click output to copy</div>
+  </div>
+
+  <script>
+    const hexInput = document.getElementById('hex');
+    const alphaInput = document.getElementById('alpha');
+    const output = document.getElementById('output');
+
+    function convert() {
+      let hex = hexInput.value.trim().replace('#', '');
+
+      if (hex.length === 3) {
+        hex = hex.split('').map(c => c + c).join('');
+      }
+
+      if (!/^[0-9a-fA-F]{6}$/.test(hex)) {
+        output.textContent = 'Invalid hex';
+        return;
+      }
+
+      const r = parseInt(hex.slice(0, 2), 16) / 255;
+      const g = parseInt(hex.slice(2, 4), 16) / 255;
+      const b = parseInt(hex.slice(4, 6), 16) / 255;
+      const a = Math.min(1, Math.max(0, parseFloat(alphaInput.value) || 0));
+
+      output.textContent = `rgba(${r.toFixed(3)}, ${g.toFixed(3)}, ${b.toFixed(3)}, ${a})`;
+    }
+
+    hexInput.addEventListener('input', convert);
+    alphaInput.addEventListener('input', convert);
+
+    output.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(output.textContent);
+        const original = output.textContent;
+        output.textContent = 'Copied';
+        setTimeout(() => {
+          output.textContent = original;
+        }, 800);
+      } catch {}
+    });
+
+    convert();
+  </script>
+</body>
+</html>
